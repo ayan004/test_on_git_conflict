@@ -6,6 +6,6 @@ created on: 05/10/22
 
 time: 8:25a.m.
 
-today is dashomi
+today is ekadashi
 
 this line is added by repo A
